@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+<title>Volkswagen</title>
+<link>https://www.volkswagen.com.pe/</link>
+<description>Modelos de autos</description>
+
+<item>
+<g:id>Beetle</g:id>
+<g:title>Beetle</g:title>
+<g:description>Un icono con alma deportiva</g:description>
+<g:link>https://www.volkswagen.com.pe/es/modelos/beetle.html</g:link>
+<g:image_link>https://mediaforwardcommunications.github.io/volkswagen/Beetle.png</g:image_link>
+<g:brand>Volkswagen</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>20,990 USD</g:price>
+<g:google_product_category>Coupé</g:google_product_category>
+</item>
+
+<item>
+<g:id>Crossfox</g:id>
+<g:title>Crossfox</g:title>
+<g:description>Una mirada a la aventura</g:description>
+<g:link>https://www.volkswagen.com.pe/es/modelos/crossfox.html</g:link>
+<g:image_link>https://mediaforwardcommunications.github.io/volkswagen/Crossfox.png</g:image_link>
+<g:brand>Volkswagen</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>14,990 USD</g:price>
+<g:google_product_category>SUV</g:google_product_category>
+</item>
+
+<item>
+<g:id>Gol</g:id>
+<g:title>Gol</g:title>
+<g:description>El auto para seguir conectado</g:description>
+<g:link>https://www.volkswagen.com.pe/es/modelos/gol.html</g:link>
+<g:image_link>https://mediaforwardcommunications.github.io/volkswagen/Gol.png</g:image_link>
+<g:brand>Volkswagen</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>10,590 USD</g:price>
+<g:google_product_category>Hatchback</g:google_product_category>
+</item>
+
+<item>
+<g:id>Gol Sedán</g:id>
+<g:title>Gol Sedán</g:title>
+<g:description>El auto para seguir conectado</g:description>
+<g:link>https://www.volkswagen.com.pe/es/modelos/gol-sedan.html</g:link>
+<g:image_link>https://mediaforwardcommunications.github.io/volkswagen/GolSedan.png</g:image_link>
+<g:brand>Volkswagen</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>10,590 USD</g:price>
+<g:google_product_category>Sedán</g:google_product_category>
+</item>
+
+<item>
+<g:id>Jetta</g:id>
+<g:title>Jetta</g:title>
+<g:description>Elegancia excepcional</g:description>
+<g:link>https://www.volkswagen.com.pe/es/modelos/jetta.html</g:link>
+<g:image_link>https://mediaforwardcommunications.github.io/volkswagen/Jetta.png</g:image_link>
+<g:brand>Volkswagen</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>16,590 USD</g:price>
+<g:google_product_category>Sedán</g:google_product_category>
+</item>
+
+<item>
+<g:id>Tiguan Allspace</g:id>
+<g:title>Tiguan Allspace</g:title>
+<g:description>Siempre hay espacio para uno más</g:description>
+<g:link>https://www.volkswagen.com.pe/es/modelos/tiguan.html</g:link>
+<g:image_link>https://mediaforwardcommunications.github.io/volkswagen/TiguanAllspace.png</g:image_link>
+<g:brand>Volkswagen</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>27,490  USD</g:price>
+<g:google_product_category>SUV</g:google_product_category>
+</item>
+
+<item>
+<g:id>Up!</g:id>
+<g:title>Up!</g:title>
+<g:description>Maneja tu libertad</g:description>
+<g:link>https://www.volkswagen.com.pe/es/modelos/up.html</g:link>
+<g:image_link>https://mediaforwardcommunications.github.io/volkswagen/Up!.png</g:image_link>
+<g:brand>Volkswagen</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>9,290  USD</g:price>
+<g:google_product_category>Hatchback</g:google_product_category>
+</item>
+
+</channel>
+</rss>
