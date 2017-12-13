@@ -6,29 +6,29 @@
 <description>Modelos de autos</description>
 
 <item>
-<g:id>Beetle</g:id>
-<g:title>Beetle</g:title>
-<g:description>Un icono con alma deportiva</g:description>
-<g:link>https://ad.doubleclick.net/ddm/trackclk/N3120.152606FACEBOOK.COM0/B20518148.209932688;dc_trk_aid=409757930;dc_trk_cid=95627164;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=</g:link>
-<g:image_link>https://mediaforwardcommunications.github.io/volkswagen/Beetle.png</g:image_link>
+<g:id>Up!</g:id>
+<g:title>Up!</g:title>
+<g:description>Maneja tu libertad</g:description>
+<g:link>https://ad.doubleclick.net/ddm/trackclk/N3120.152606FACEBOOK.COM0/B20518148.209996710;dc_trk_aid=409791016;dc_trk_cid=95634255;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=</g:link>
+<g:image_link>https://mediaforwardcommunications.github.io/volkswagen/Up!.png</g:image_link>
 <g:brand>Volkswagen</g:brand>
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
-<g:price>20,990 USD</g:price>
-<g:google_product_category>Coupé</g:google_product_category>
+<g:price>8,990  USD</g:price>
+<g:google_product_category>Hatchback</g:google_product_category>
 </item>
 
 <item>
-<g:id>Crossfox</g:id>
-<g:title>Crossfox</g:title>
-<g:description>Una mirada a la aventura</g:description>
-<g:link>https://ad.doubleclick.net/ddm/trackclk/N3120.152606FACEBOOK.COM0/B20518148.209996614;dc_trk_aid=409695516;dc_trk_cid=95631735;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=</g:link>
-<g:image_link>https://mediaforwardcommunications.github.io/volkswagen/Crossfox.png</g:image_link>
+<g:id>Gol Sedán</g:id>
+<g:title>Gol Sedán</g:title>
+<g:description>El auto para seguir conectado</g:description>
+<g:link>https://ad.doubleclick.net/ddm/trackclk/N3120.152606FACEBOOK.COM0/B20518148.209996620;dc_trk_aid=409792288;dc_trk_cid=95634249;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=</g:link>
+<g:image_link>https://mediaforwardcommunications.github.io/volkswagen/GolSedan.png</g:image_link>
 <g:brand>Volkswagen</g:brand>
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
-<g:price>14,990 USD</g:price>
-<g:google_product_category>SUV</g:google_product_category>
+<g:price>9,990 USD</g:price>
+<g:google_product_category>Sedán</g:google_product_category>
 </item>
 
 <item>
@@ -45,16 +45,16 @@
 </item>
 
 <item>
-<g:id>Gol Sedán</g:id>
-<g:title>Gol Sedán</g:title>
-<g:description>El auto para seguir conectado</g:description>
-<g:link>https://ad.doubleclick.net/ddm/trackclk/N3120.152606FACEBOOK.COM0/B20518148.209996620;dc_trk_aid=409792288;dc_trk_cid=95634249;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=</g:link>
-<g:image_link>https://mediaforwardcommunications.github.io/volkswagen/GolSedan.png</g:image_link>
+<g:id>Crossfox</g:id>
+<g:title>Crossfox</g:title>
+<g:description>Una mirada a la aventura</g:description>
+<g:link>https://ad.doubleclick.net/ddm/trackclk/N3120.152606FACEBOOK.COM0/B20518148.209996614;dc_trk_aid=409695516;dc_trk_cid=95631735;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=</g:link>
+<g:image_link>https://mediaforwardcommunications.github.io/volkswagen/Crossfox.png</g:image_link>
 <g:brand>Volkswagen</g:brand>
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
-<g:price>10,590 USD</g:price>
-<g:google_product_category>Sedán</g:google_product_category>
+<g:price>14,990 USD</g:price>
+<g:google_product_category>SUV</g:google_product_category>
 </item>
 
 <item>
@@ -71,6 +71,32 @@
 </item>
 
 <item>
+<g:id>Golf</g:id>
+<g:title>Golf</g:title>
+<g:description>Elegancia excepcional</g:description>
+<g:link>https://ad.doubleclick.net/ddm/trackclk/N3120.152606FACEBOOK.COM0/B20518148.211075787;dc_trk_aid=410642212;dc_trk_cid=96123877;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=</g:link>
+<g:image_link>https://mediaforwardcommunications.github.io/volkswagen/Golf.png</g:image_link>
+<g:brand>Volkswagen</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>18,390 USD</g:price>
+<g:google_product_category>Sedán</g:google_product_category>
+</item>
+
+<item>
+<g:id>Beetle</g:id>
+<g:title>Beetle</g:title>
+<g:description>Un icono con alma deportiva</g:description>
+<g:link>https://ad.doubleclick.net/ddm/trackclk/N3120.152606FACEBOOK.COM0/B20518148.209932688;dc_trk_aid=409757930;dc_trk_cid=95627164;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=</g:link>
+<g:image_link>https://mediaforwardcommunications.github.io/volkswagen/Beetle.png</g:image_link>
+<g:brand>Volkswagen</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>20,990 USD</g:price>
+<g:google_product_category>Coupé</g:google_product_category>
+</item>
+
+<item>
 <g:id>Tiguan Allspace</g:id>
 <g:title>Tiguan Allspace</g:title>
 <g:description>Siempre hay espacio para uno más</g:description>
@@ -83,18 +109,7 @@
 <g:google_product_category>SUV</g:google_product_category>
 </item>
 
-<item>
-<g:id>Up!</g:id>
-<g:title>Up!</g:title>
-<g:description>Maneja tu libertad</g:description>
-<g:link>https://ad.doubleclick.net/ddm/trackclk/N3120.152606FACEBOOK.COM0/B20518148.209996710;dc_trk_aid=409791016;dc_trk_cid=95634255;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=</g:link>
-<g:image_link>https://mediaforwardcommunications.github.io/volkswagen/Up!.png</g:image_link>
-<g:brand>Volkswagen</g:brand>
-<g:condition>new</g:condition>
-<g:availability>in stock</g:availability>
-<g:price>9,290  USD</g:price>
-<g:google_product_category>Hatchback</g:google_product_category>
-</item>
+
 
 </channel>
 </rss>
