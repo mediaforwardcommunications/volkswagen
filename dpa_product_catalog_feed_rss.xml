@@ -15,7 +15,7 @@
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
 <g:price>8,990  USD</g:price>
-<g:google_product_category>Hatchback</g:google_product_category>
+<g:google_product_category>WV > Hatchback</g:google_product_category>
 </item>
 
 <item>
@@ -28,7 +28,7 @@
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
 <g:price>9,990 USD</g:price>
-<g:google_product_category>Sedán</g:google_product_category>
+<g:google_product_category>WV > Sedán</g:google_product_category>
 </item>
 
 <item>
@@ -41,7 +41,7 @@
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
 <g:price>10,590 USD</g:price>
-<g:google_product_category>Hatchback</g:google_product_category>
+<g:google_product_category>WV > Hatchback</g:google_product_category>
 </item>
 
 <item>
@@ -54,7 +54,7 @@
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
 <g:price>14,990 USD</g:price>
-<g:google_product_category>SUV</g:google_product_category>
+<g:google_product_category>WV > SUV</g:google_product_category>
 </item>
 
 <item>
@@ -67,7 +67,7 @@
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
 <g:price>16,590 USD</g:price>
-<g:google_product_category>Sedán</g:google_product_category>
+<g:google_product_category>WV > Sedán</g:google_product_category>
 </item>
 
 <item>
@@ -80,7 +80,7 @@
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
 <g:price>18,390 USD</g:price>
-<g:google_product_category>Sedán</g:google_product_category>
+<g:google_product_category>WV > Sedán</g:google_product_category>
 </item>
 
 <item>
@@ -93,7 +93,7 @@
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
 <g:price>20,990 USD</g:price>
-<g:google_product_category>Coupé</g:google_product_category>
+<g:google_product_category>WV > Coupé</g:google_product_category>
 </item>
 
 <item>
@@ -106,7 +106,7 @@
 <g:condition>new</g:condition>
 <g:availability>in stock</g:availability>
 <g:price>27,490  USD</g:price>
-<g:google_product_category>SUV</g:google_product_category>
+<g:google_product_category>WV > SUV</g:google_product_category>
 </item>
 
 
